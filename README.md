@@ -54,3 +54,6 @@ Developed by:NARENDRA KRISHNAN KS RegisterNumber:25008086
 
 
 **RESULTS**
+
+ 
+ Thus implement SR flipflop using verilog and validating their functionality using their functional tables
